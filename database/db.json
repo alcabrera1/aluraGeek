@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Hulk",
+      "price": "30",
+      "image": "https://m.media-amazon.com/images/I/61oCuz-yfzL._AC_SX425_.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Hombre Araña",
+      "price": "55",
+      "image": "https://m.media-amazon.com/images/I/61rBjjVxfyL._AC_SY450_.jpg",
+      "id": "3"
+    },
+    {
+      "id": "7071",
+      "name": "Halcón",
+      "price": "43",
+      "image": "https://m.media-amazon.com/images/I/51F-AxMAanL._AC_SX522_.jpg"
+    },
+    {
+      "id": "4726",
+      "name": "Capitán América",
+      "price": "67",
+      "image": "https://m.media-amazon.com/images/I/71fjiiNf-eL._AC_SX522_.jpg"
+    },
+    {
+      "id": "526b",
+      "name": "Batman",
+      "price": "70",
+      "image": "https://m.media-amazon.com/images/I/61YXDHLFRQS._AC_SY679_.jpg"
+    }
+  ]
+}
